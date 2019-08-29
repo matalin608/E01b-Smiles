@@ -1,4 +1,7 @@
 # E01b-Smiles
+
+This is a project for Indiana University.
+
 An exercise exploring variables and loops using Python Arcade.
 
 This repository contains several files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
