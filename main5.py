@@ -8,10 +8,10 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = "Smiley Face Example"
 
-class Faces(arcade.Window):
+class Faces(arcade.Window): #This created a class, or a group of objects, called "Faces" using the arcade window.
     """ Our custom Window Class"""
 
-    def __init__(self):
+    def __init__(self): #this defines the contructor, __init__ for a class. self references this particular instance of the class.
         """ Initializer """
         # Call the parent class initializer
         super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
